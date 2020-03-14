@@ -1,6 +1,9 @@
 # Pterotype
 > A WordPress plugin that expands your audience by giving your site an [ActivityPub](https://activitypub.rocks) stream
 
+## What's my ActivityPub address?
+After setup, your address will be @blog@whatever.domain. @blog is always your handle.
+
 ## Roadmap
 The development roadmap is available [here](https://getpterotype.com/roadmap/).
 
